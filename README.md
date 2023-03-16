@@ -24,8 +24,18 @@ You may also see any lint errors in the console.
 Runs the app in the development mode.\
 Open [http://localhost:3005](http://localhost:3005) to view it in your browser.
 
+# Samples
+
+## Home
+
+![home](https://user-images.githubusercontent.com/40708938/225734660-ccf8048c-ae7a-4325-81e2-0f1052ec4df0.png)
+
+# View
+
+![view book](https://user-images.githubusercontent.com/40708938/225734671-d34c43e6-7f24-4eab-80bf-019028d15864.png)
+## Delete
+![delete bok](https://user-images.githubusercontent.com/40708938/225734650-b3726a10-f04a-4c49-94b2-0082b67255fb.png)
+
+## ADD
 
 ![add boo](https://user-images.githubusercontent.com/40708938/225734644-5ea16fc5-0e88-4274-9a0f-975063431566.png)
-![delete bok](https://user-images.githubusercontent.com/40708938/225734650-b3726a10-f04a-4c49-94b2-0082b67255fb.png)
-![home](https://user-images.githubusercontent.com/40708938/225734660-ccf8048c-ae7a-4325-81e2-0f1052ec4df0.png)
-![view book](https://user-images.githubusercontent.com/40708938/225734671-d34c43e6-7f24-4eab-80bf-019028d15864.png)
