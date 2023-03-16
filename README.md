@@ -7,7 +7,11 @@ which contains some features such as:
   * update.
   * delete.
 
-
+* Tools: 
+  * React.js.
+  * Redux-toolkit.
+  * React-bootstrap.
+  
 
 In the project directory, you can run:
 
